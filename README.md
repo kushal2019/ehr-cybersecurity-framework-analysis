@@ -57,7 +57,7 @@ The figures are saved in the current folder, and the aggregate scores are printe
 | `fig4_6_coverage_vs_tm.png` | 4.6 Threat Coverage Against Threat Modelling Integration |
 
 ## Outputs
-The search outputs and figures are on Figshare: DOI_HERE
+The search outputs and figures are on Figshare: https://doi.org/10.6084/m9.figshare.33994557
 
 ## Citation
 Poudel, K. (2026) *A Comparative Evaluation of Cybersecurity Governance Frameworks for Electronic Health Record Systems in the UK National Health Service*. MSc dissertation. University of West London.
